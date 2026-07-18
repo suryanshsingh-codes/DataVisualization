@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Data%20Visualization&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Matplotlib,%20Seaborn%20%26%20Plotly&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Data%20Visualization&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Matplotlib%20%7C%20Seaborn%20%7C%20Plotly%20%7C%20EDA&descAlignY=58"/>
 
 # 📊 Data Visualization with Python
 
-### *Building Professional Visualizations for Data Science & Machine Learning*
+### *From Basic Charts to Interactive Visual Analytics*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Mastering+Matplotlib;Learning+Seaborn;Interactive+Visualization+with+Plotly;Exploratory+Data+Analysis;Real-World+Visualization+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Mastering+Matplotlib;Advanced+Seaborn+Visualizations;Interactive+Plotly+Charts;Exploratory+Data+Analysis+%28EDA%29;Real-World+Visualization+Projects;IPL+2022+Capstone+Project"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Matplotlib-3.x-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-3.x-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-0.13-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-Latest-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository-Data%20Visualization-orange?style=for-the-badge"/>
 
 </div>
 
